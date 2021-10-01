@@ -1,1 +1,2 @@
 "git is good" 
+"is THIS how adding lines workS?!? (git yur da best, weehoo)" 
